@@ -1,4 +1,4 @@
-## Hi there 👋
+## <center>Hi I am Jay Karad 👋</center>
 
 <!--
 **KaradJAY/KaradJAY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
